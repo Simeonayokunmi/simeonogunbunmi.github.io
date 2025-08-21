@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Simeonayokunmi.github.io/sitemap.xml
+Sitemap: https://Simeonayokunmi.github.iosimeonogunbunmi/sitemap.xml
