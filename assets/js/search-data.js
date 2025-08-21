@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Weldome to my Academic CV",
+          description: "Welcome to Simeon Ogunbunmi CV",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
