@@ -1,6 +1,6 @@
 ---
 layout: about
-title: My Home
+title: My-Home
 permalink: /
 subtitle: <a href='#'>Virginia State University</a>. 1 Hayden Dr. Virginia State University, VA 23806. 804-524-3752. Etc.
 
