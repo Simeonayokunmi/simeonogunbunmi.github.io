@@ -26,7 +26,7 @@
     {
       "name": "Virginia State University",
       "position": "Post-Doctoral Researcher",
-      "url": "https://vsu.edu",
+      "url": "https://www.vsu.edu",
       "startDate": "2025-06-01",
       "endDate": "Present",
       "summary": "Engineering OPC UA data pipeline using Prosys UA Client and Python to aggregate data from DMG MORI (DMU50) and environmental sensors, streaming processed data to Azure cloud for centralized storage and analysis.",
@@ -39,7 +39,7 @@
     {
       "name": "Binghamton University",
       "position": "Graduate Research Assistant",
-      "url": "https://binghamton.edu",
+      "url": "https://www.binghamton.edu",
       "startDate": "2022-08-01",
       "endDate": "2025-05-01",
       "summary": "Conducted research in Intelligent and Sustainable Edge Computing (I-SEC) Lab focusing on UAV security, blockchain technology, and edge computing systems.",
@@ -54,7 +54,7 @@
     {
       "name": "Hub Control",
       "position": "Remote Temperature Control System Intern",
-      "url": "https://newyork-company.com/co/hub-controls-usa-inc",
+      "url": "https://www.newyork-company.com/co/hub-controls-usa-inc",
       "startDate": "2023-05-01",
       "endDate": "2023-08-01",
       "summary": "Engineered secure, Python-based remote-control platform for IoT heat pumps with cloud-based authentication and real-time system validation.",
@@ -251,7 +251,7 @@
       "name": "A lightweight reputation system for uav networks",
       "publisher": "Conference Publication",
       "releaseDate": "2023-10-12",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eq89J0gAAAAJ&citation_for_view=eq89J0gAAAAJ:u5HHmVD_uO8C",
+      "url": "https://www.scholar.google.com/citations?view_op=view_citation&hl=en&user=eq89J0gAAAAJ&citation_for_view=eq89J0gAAAAJ:u5HHmVD_uO8C",
       "summary": "Proposes a LIghtweight Blockchain-based REputation (LIBRE) system to improve the reliability and performance of a UAV network by monitoring, tracking, and selecting the most appropriate individuals to carry out tasks."
     },
     {
@@ -265,7 +265,7 @@
       "name": "A digital twins enabled reputation system for microchain-based uav networks",
       "publisher": "IEEE",
       "releaseDate": "2023-11-11",
-      "url": "https://ieeexplore.ieee.org/abstract/document/10490022/",
+      "url": "https://www.ieeexplore.ieee.org/abstract/document/10490022/",
       "summary": "Presents a novel DIgital Twins-Enabled Reputation (DITER) system for microchain-based UAV networks with three-layer architecture."
     },
     {
@@ -279,7 +279,7 @@
       "name": "Reputation-enhanced practical byzantine fault tolerance algorithm for node capture attacks on UAV networks",
       "publisher": "Springer",
       "releaseDate": "2025-05-28",
-      "url": "https://link.springer.com/article/10.1007/s43926-025-00164-y",
+      "url": "https://www.link.springer.com/article/10.1007/s43926-025-00164-y",
       "summary": "Proposes a Reputation-enhanced Practical Byzantine Fault Tolerance Algorithm (RePA) to address node capture attacks on UAV networks."
     },
     {
@@ -314,7 +314,7 @@
       "name": "APPLICATION OF MARKOVIAN DECISION PROCESS (MDP) FOR INVESTMENT STRATEGY BASED ON US PRESIDENTIAL ELECTION",
       "publisher": "IISE Conference",
       "releaseDate": "2025-04-21",
-      "url": "https://iise.confex.com/iise/2024/meetingapp.cgi/Paper/5885",
+      "url": "https://www.iise.confex.com/iise/2024/meetingapp.cgi/Paper/5885",
       "summary": "Application of Markovian Decision Process for investment decisions based on US presidential elections."
     }
   ],
@@ -383,7 +383,7 @@
       "highlights": ["Blockchain Integration", "UAV Security", "Reputation Scoring", "Topological Data Analysis"],
       "startDate": "2022-08-01",
       "endDate": "2025-05-01",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eq89J0gAAAAJ&citation_for_view=eq89J0gAAAAJ:u5HHmVD_uO8C"
+      "url": "https://www.scholar.google.com/citations?view_op=view_citation&hl=en&user=eq89J0gAAAAJ&citation_for_view=eq89J0gAAAAJ:u5HHmVD_uO8C"
     },
     {
       "name": "IoT Weather Monitoring System",
