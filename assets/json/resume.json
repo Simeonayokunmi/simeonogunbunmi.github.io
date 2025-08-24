@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Simeon A. Ogunbunmi",
-    "label": "Research Associate | Cybersecurity & UAV Networks Expert",
+    "label": "Postdoctoral Researcher | Cybersecurity & UAV Networks Expert",
     "image": "",
     "email": "sogunbunmi@vsu.edu",
     "phone": "(804) 524-3752",
     "url": "https://Simeonayokunmi.github.io/",
-    "summary": "Research Associate in Electrical and Computer Engineering with specialized expertise in cybersecurity, UAV networks, blockchain technology, and edge computing. My interdisciplinary research integrates machine learning, cryptography, and IoT systems to develop innovative solutions for cyber-physical systems. Proven track record in applied research, collaborative innovation, and academic excellence with 10+ peer-reviewed publications and extensive teaching experience across multiple institutions.",
+    "summary": "Postdoctoral researcher in Electrical and Computer Engineering with a focus on security, edge computing, and UAV systems. My work integrates machine learning, blockchain, and cryptography to solve real-world problems in cyber-physical systems. Passionate about applied research, teaching, and collaborative innovation across disciplines.",
     "location": {
       "address": "",
       "postalCode": "23806",
@@ -34,52 +34,57 @@
         "network": "GitHub",
         "username": "Simeonayokunmi",
         "url": "https://github.com/Simeonayokunmi"
+      },
+      {
+        "network": "Personal Website",
+        "username": "Simeon Ayokunmi",
+        "url": "https://Simeonayokunmi.github.io/"
       }
     ]
   },
   "work": [
     {
       "name": "Virginia State University",
-      "position": "Research Associate",
-      "url": "https://www.vsu.edu",
+      "position": "Postdoctoral Researcher",
+      "url": "https://vsu.edu",
       "startDate": "2025-06-01",
       "endDate": "Present",
-      "summary": "Leading advanced manufacturing research initiatives focusing on OPC UA data integration, Azure cloud computing, and real-time industrial analytics for smart manufacturing systems.",
+      "summary": "Engineering OPC UA data pipeline using Prosys UA Client and Python to aggregate data from DMG MORI (DMU50) and environmental sensors, streaming processed data to Azure cloud for centralized storage and analysis.",
       "highlights": [
         "Engineering comprehensive OPC UA data pipeline using Prosys UA Client and Python to aggregate multi-source data from DMG MORI (DMU50) CNC machines and environmental sensors, enabling seamless data streaming to Azure cloud infrastructure for centralized storage and advanced analytics",
-        "Developing and implementing real-time industrial dashboard with integrated OPC UA client connectivity to visualize critical machine performance metrics, energy consumption patterns, and environmental conditions, providing actionable insights that improve overall system efficiency by 25%",
-        "Utilizing advanced Python programming for sophisticated data preprocessing, synchronization across heterogeneous sensor inputs, and data integrity validation, preparing high-quality datasets for predictive modeling and machine learning applications on Azure platform",
-        "Collaborating with cross-functional engineering teams to optimize manufacturing processes through data-driven insights and implementing Industry 4.0 principles for smart factory transformation"
+        "Building real-time dashboard with OPC UA client integration to visualize machine and energy metrics, providing actionable insights that improve overall system efficiency by 25%",
+        "Utilizing Python for data preprocessing and synchronization across sensor inputs, preparing high-quality datasets for predictive modeling and machine learning applications on Azure platform",
+        "Enhancing data integrity and preparing datasets for advanced analytics on Azure, collaborating with cross-functional engineering teams to optimize manufacturing processes through data-driven insights"
       ]
     },
     {
       "name": "Binghamton University - I-SEC Lab",
       "position": "Graduate Research Assistant",
-      "url": "https://www.binghamton.edu",
+      "url": "https://binghamton.edu",
       "startDate": "2022-08-01",
       "endDate": "2025-05-01",
-      "summary": "Conducted cutting-edge research in Intelligent and Sustainable Edge Computing (I-SEC) Laboratory, specializing in UAV security, blockchain technology, reputation systems, and edge computing architectures.",
+      "summary": "Conducted research in Intelligent and Sustainable Edge Computing (I-SEC) Lab focusing on UAV security, blockchain technology, and edge computing systems.",
       "highlights": [
-        "Developed and implemented innovative LIBRE (Lightweight Blockchain-based Reputation) system for 5-UAV network deployment, utilizing distributed ledger technology to ensure security and effectiveness of 60% of collected datasets, with comprehensive integration of cloud platforms for scalable data management",
-        "Engineered sophisticated Python-based remote telemetry application for UAV fleet management, incorporating authenticated data exchange protocols, lightweight cryptographic validation mechanisms, and manual security verification during real-time data transmission operations",
-        "Enhanced UAV data collection processes through custom Raspberry Pi hardware integration, implementing advanced reputation-based algorithms to identify and mitigate malicious data injection attacks, successfully reducing data compromise incidents by over 30%",
+        "Developed reputation system for 5 UAVs using blockchain technology, ensuring security of 60% of datasets collected, with comprehensive integration of cloud platforms for scalable data management",
+        "Created Python-based remote application for UAV telemetry with authenticated data exchange protocols, incorporating lightweight cryptographic validation mechanisms during real-time data transmission operations",
+        "Enhanced UAV data collection using Raspberry PI hardware, implementing advanced reputation-based algorithms to identify and mitigate malicious data injection attacks, reducing data compromise by over 30%",
         "Conducted comprehensive statistical analysis and advanced data visualization of experimental simulation results using Excel, MATLAB, and Python, generating actionable insights for UAV network optimization and security enhancement",
-        "Developed high-performance Python applications for real-time telemetry and video data processing, with extensive experience in handling high-volume streaming data pipelines comparable to enterprise Video Management System (VMS) platforms",
+        "Developed high-performance Python applications for real-time telemetry and video data processing, with extensive experience in handling high-volume streaming data pipelines",
         "Published 10+ peer-reviewed research papers in top-tier conferences and journals, contributing significantly to the advancement of UAV security and blockchain technology research"
       ]
     },
     {
       "name": "Hub Control USA Inc.",
       "position": "Remote Temperature Control System Engineering Intern",
-      "url": "https://www.newyork-company.com/co/hub-controls-usa-inc",
+      "url": "https://newyork-company.com/co/hub-controls-usa-inc",
       "startDate": "2023-05-01",
       "endDate": "2023-08-01",
-      "summary": "Engineered secure, cloud-integrated remote control platform for IoT-enabled heat pump systems with advanced authentication and real-time monitoring capabilities.",
+      "summary": "Engineered secure, Python-based remote-control platform for IoT heat pumps with cloud-based authentication and real-time system validation.",
       "highlights": [
-        "Engineered comprehensive secure Python-based remote control platform for IoT heat pump systems, integrating robust cloud-based authentication mechanisms, secure scripting environments (Bash/Python), and real-time system state validation using advanced Raspberry Pi sensor networks",
-        "Conducted extensive test rig validation on sampled heat pump units to control, measure, and evaluate application performance under various operational conditions, ensuring reliability and efficiency standards",
-        "Led collaborative cross-functional development team to create and maintain sophisticated monitoring applications, resulting in 30% improvement in system alert response times and enhanced overall system reliability",
-        "Collaborated with multidisciplinary engineering teams to optimize infrastructure architecture, achieving 30% increase in system efficiency and enabling significantly faster response times for critical temperature control applications in industrial environments"
+        "Engineered comprehensive secure Python-based remote control platform for IoT heat pump systems, integrating robust cloud-based authentication mechanisms and real-time system state validation using advanced Raspberry Pi sensor networks",
+        "Integrated cloud-based authentication and secure scripting using Raspberry Pi sensors, ensuring reliability and efficiency standards through extensive test rig validation",
+        "Led collaborative effort resulting in 30% improvement in response times for system alerts and enhanced overall system reliability",
+        "Optimized infrastructure resulting in 30% increase in system efficiency, enabling significantly faster response times for critical temperature control applications in industrial environments"
       ]
     },
     {
@@ -316,7 +321,8 @@
         "Sensor Networks",
         "Edge Computing",
         "Real-time Systems",
-        "Embedded Linux"
+        "Embedded Linux",
+        "UAV Systems"
       ]
     },
     {
@@ -442,7 +448,7 @@
       "date": "2023-2025",
       "awarder": "Binghamton University Graduate School",
       "url": "https://www.binghamton.edu/grad-school/funding/",
-      "summary": "Prestigious fellowship awarded for three consecutive years (2023, 2024, 2025) recognizing outstanding doctoral research performance and academic excellence in Electrical and Computer Engineering."
+      "summary": "Received fellowship for 2023, 2024, and 2025 for outstanding doctoral research performance and academic excellence in Electrical and Computer Engineering."
     },
     {
       "title": "Outstanding Graduate Research Award",
@@ -463,7 +469,7 @@
       "date": "2022-04-01",
       "awarder": "Ladoke Akintola University of Technology",
       "url": "",
-      "summary": "Recognized for exceptional contribution to student life and academic excellence, ranking 3rd in Computer Science and Engineering Department with First Class Honors."
+      "summary": "Recognized for exceptional contribution to student life and ranked 3rd in Computer Science and Engineering Department with First Class Honors."
     },
     {
       "title": "Dean's List Recognition",
@@ -560,7 +566,7 @@
       "startDate": "2022-08-01",
       "endDate": "2025-05-01",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eq89J0gAAAAJ&citation_for_view=eq89J0gAAAAJ:u5HHmVD_uO8C",
-      "technologies": ["Python", "Blockchain", "Machine Learning", "Raspberry Pi", "IoT"]
+      "technologies": ["Python", "Blockchain", "Machine Learning", "Raspberry Pi", "IoT", "Ethereum", "UAV Systems"]
     },
     {
       "name": "OPC UA Industrial Data Pipeline for Smart Manufacturing",
@@ -576,7 +582,7 @@
       "startDate": "2025-06-01",
       "endDate": "Present",
       "url": "",
-      "technologies": ["Python", "OPC UA", "Azure", "Industrial IoT", "Data Analytics"]
+      "technologies": ["Python", "OPC UA", "Azure", "Industrial IoT", "Data Analytics", "DMG MORI"]
     },
     {
       "name": "IoT Weather Monitoring and Environmental Analysis System",
@@ -592,7 +598,7 @@
       "startDate": "2020-09-01",
       "endDate": "2021-02-01",
       "url": "https://www.academia.edu/download/117568526/WJARR-2024-1647.pdf",
-      "technologies": ["Arduino", "IoT", "Python", "Cloud Computing", "Mobile Development"]
+      "technologies": ["Arduino", "IoT", "Python", "Cloud Computing", "Mobile Development", "Environmental Monitoring"]
     },
     {
       "name": "Scanning Acoustic Microscopy (SAM) Signal Processing Project",
@@ -624,7 +630,7 @@
       "startDate": "2023-05-01",
       "endDate": "2023-08-01",
       "url": "",
-      "technologies": ["Python", "IoT", "Raspberry Pi", "Cloud Computing", "Security"]
+      "technologies": ["Python", "IoT", "Raspberry Pi", "Cloud Computing", "Security", "Heat Pump Systems"]
     }
   ],
   "professionalService": [
@@ -633,42 +639,48 @@
       "role": "Peer Reviewer",
       "startDate": "2023-01-01",
       "endDate": "Present",
-      "description": "Provide expert peer review of research manuscripts in IoT domain, cybersecurity, and edge computing applications. Reviewed 15+ high-impact research papers annually."
+      "description": "Provide expert peer review of research manuscripts in IoT domain, cybersecurity, and edge computing applications. Reviewed 15+ high-impact research papers annually.",
+      "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907"
     },
     {
       "organization": "IEEE Access",
       "role": "Peer Reviewer",
       "startDate": "2023-06-01",
       "endDate": "Present",
-      "description": "Conduct comprehensive peer review of research manuscripts in electrical engineering, computer science, and interdisciplinary technology research. Maintained 100% on-time review completion rate."
+      "description": "Conduct comprehensive peer review of research manuscripts in electrical engineering, computer science, and interdisciplinary technology research. Maintained 100% on-time review completion rate.",
+      "url": "https://ieeeaccess.ieee.org/"
     },
     {
       "organization": "Journal of Emerging Investigators (JEI)",
       "role": "Reviewer and Copy Editor",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "description": "Provide review and editorial support for emerging research publications, mentoring young researchers and ensuring publication quality standards."
+      "description": "Provide review and editorial support for emerging research publications, mentoring young researchers and ensuring publication quality standards.",
+      "url": "https://emerginginvestigators.org/"
     },
     {
       "organization": "Journal of Medical Internet Research (JMIR)",
       "role": "Peer Reviewer",
       "startDate": "2024-01-01",
       "endDate": "Present",
-      "description": "Review medical internet research publications focusing on IoT applications in healthcare, telemedicine, and digital health technologies."
+      "description": "Review medical internet research publications focusing on IoT applications in healthcare, telemedicine, and digital health technologies.",
+      "url": "https://www.jmir.org/"
     },
     {
       "organization": "Human Factors and Ergonomics Society, Health Care Technical Group (HFES-HCTG)",
       "role": "Technical Reviewer",
       "startDate": "2023-03-01",
       "endDate": "Present",
-      "description": "Review human factors and ergonomics research in healthcare technology, focusing on user interface design and system usability in medical environments."
+      "description": "Review human factors and ergonomics research in healthcare technology, focusing on user interface design and system usability in medical environments.",
+      "url": "https://www.hfes.org/"
     },
     {
       "organization": "National Center for Women and Information Technology (NCWIT)",
       "role": "Program Reviewer and Mentor",
       "startDate": "2022-01-01",
       "endDate": "Present",
-      "description": "Support women in information technology initiatives through program review, mentorship, and advocacy for diversity and inclusion in STEM fields."
+      "description": "Support women in information technology initiatives through program review, mentorship, and advocacy for diversity and inclusion in STEM fields.",
+      "url": "https://www.ncwit.org/"
     }
   ],
   "volunteer": [
