@@ -19,8 +19,8 @@ toc:
     "image": "",
     "email": "sogunbunmi@vsu.edu",
     "phone": "(804) 524-3752",
-    "url": "https://Simeonayokunmi.github.io/",
-    "summary": "Postdoctoral researcher in Electrical and Computer Engineering with a focus on security, edge computing, and UAV systems. My work integrates machine learning, blockchain, and cryptography to solve real-world problems in cyber-physical systems. Passionate about applied research, teaching, and collaborative innovation across disciplines.",
+    "url": "https://Simeonayokunmi.simeonayokunmi.github.io/",
+    "summary": "Postdoctoral researcher in in Manufacturing Engineering at Virginia State University in Cybermanufacturing Laboratory and a PhD Electrical and Computer Engineering with a focus on security, edge computing, and UAV systems. My work integrates machine learning, blockchain, and cryptography to solve real-world problems in cyber-physical systems. Passionate about applied research, teaching, and collaborative innovation across disciplines.",
     "location": {
       "address": "",
       "postalCode": "23806",
@@ -771,7 +771,7 @@ toc:
     }
   ],
   "references": [
-    
+
     {
       "name": "Additional References",
       "reference": "Additional professional and academic references available upon request, including industry collaborators and international research partners.",
