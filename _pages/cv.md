@@ -471,7 +471,7 @@ toc:
       "url": "",
       "summary": "Recognized for exceptional contributions to UAV security research and blockchain technology innovation."
     },
-  
+
     {
       "title": "Outstanding Contribution to Students' Life Award",
       "date": "2022-04-01",
@@ -513,7 +513,7 @@ toc:
       "name": "Comprehensive Exploration of Smart Cities: A Systematic Review of Benefits, Challenges, and Future Directions in Telecommunications and Urban Development",
       "publisher": "IEEE Access",
       "releaseDate": "2025-05-13",
-      "url": "https://ieeexplore.ieee.org/abstract/document/11002747/",
+      "url": "https://www.ieeexplore.ieee.org/abstract/document/11002747/",
       "summary": "Systematic review of smart cities as transformative urban ecosystems leveraging data, technology, and intelligent design. Examines 200+ research studies, analyzes implementation challenges, and provides comprehensive framework for future smart city development with focus on telecommunications infrastructure and sustainable urban planning."
     },
     {
@@ -732,13 +732,7 @@ toc:
       "fluency": "Native Speaker",
       "icon": "🇳🇬"
     },
-    <!-- {
-      "language": "German",
-      "fluency": "Conversational (B1)",
-      "icon": "🇩🇪"
-    } -->
-  ],
-  "interests": [
+    "interests": [
     {
       "name": "Advanced Research Areas",
       "icon": "fa-solid fa-microscope",
@@ -777,24 +771,7 @@ toc:
     }
   ],
   "references": [
-    <!-- {
-      "name": "Dr. Kanad Basu",
-      "position": "Associate Professor, Electrical and Computer Engineering",
-      "organization": "Binghamton University",
-      "email": "kbasu@binghamton.edu",
-      "phone": "(607) 777-4770",
-      "reference": "PhD Dissertation Advisor and Research Supervisor",
-      "icon": "fa-solid fa-user-tie"
-    },
-    {
-      "name": "Dr. Mehmet Koyuturk",
-      "position": "Professor and Department Chair, Electrical and Computer Engineering",
-      "organization": "Binghamton University",
-      "email": "mkoyuturk@binghamton.edu",
-      "phone": "(607) 777-4770",
-      "reference": "Academic Reference and Committee Member",
-      "icon": "fa-solid fa-user-tie"
-    }, -->
+    
     {
       "name": "Additional References",
       "reference": "Additional professional and academic references available upon request, including industry collaborators and international research partners.",
