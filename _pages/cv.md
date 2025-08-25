@@ -186,6 +186,22 @@ toc:
       "location": "Binghamton, New York, United States",
       "url": "https://www.binghamton.edu/",
       "area": "Electrical and Computer Engineering",
+      "studyType": "Master of Science (MS)",
+      "startDate": "2022-08-01",
+      "endDate": "2024-08-01",
+      "score": "4.00/4.00 (Magna Cum Laude)",
+      "courses": [
+        "Computer Network Architecture",
+        "Computer Design and Digital Systems",
+        "Machine Learning Algorithms",
+        "Digital Communication Theory"
+      ]
+    },
+    {
+      "institution": "State University of New York at Binghamton",
+      "location": "Binghamton, New York, United States",
+      "url": "https://www.binghamton.edu/",
+      "area": "Electrical and Computer Engineering",
       "studyType": "Doctor of Philosophy (PhD)",
       "startDate": "2022-08-01",
       "endDate": "2024-08-01",
@@ -201,22 +217,6 @@ toc:
         "Advanced Engineering Analytics",
         "Statistical Methods for Data Science",
         "Quantum Computing and Information Theory"
-      ]
-    },
-    {
-      "institution": "State University of New York at Binghamton",
-      "location": "Binghamton, New York, United States",
-      "url": "https://www.binghamton.edu/",
-      "area": "Electrical and Computer Engineering",
-      "studyType": "Master of Science (MS)",
-      "startDate": "2022-08-01",
-      "endDate": "2024-08-01",
-      "score": "4.00/4.00 (Magna Cum Laude)",
-      "courses": [
-        "Computer Network Architecture",
-        "Computer Design and Digital Systems",
-        "Machine Learning Algorithms",
-        "Digital Communication Theory"
       ]
     },
     {
