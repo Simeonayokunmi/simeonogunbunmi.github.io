@@ -183,7 +183,7 @@ toc:
     },
     {
       "institution": "State University of New York at Binghamton",
-      "location": "Binghamton, New York, United States",
+      "location": "Binghamton, New York",
       "url": "https://www.binghamton.edu/",
       "area": "Electrical and Computer Engineering",
       "studyType": "Master of Science (MS)",
@@ -199,7 +199,7 @@ toc:
     },
     {
       "institution": "State University of New York at Binghamton",
-      "location": "Binghamton, New York, United States",
+      "location": "Binghamton, New York",
       "url": "https://www.binghamton.edu/",
       "area": "Electrical and Computer Engineering",
       "studyType": "Doctor of Philosophy (PhD)",
@@ -221,7 +221,7 @@ toc:
     },
     {
       "institution": "Ladoke Akintola University of Technology",
-      "location": "Ogbomoso, Oyo State, Nigeria",
+      "location": "Ogbomoso, Oyo State",
       "url": "https://www.lautech.edu.ng/",
       "area": "Computer Science and Engineering",
       "studyType": "Bachelor of Technology (B.Tech)",
