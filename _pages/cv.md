@@ -23,7 +23,7 @@ toc:
     "summary": "Postdoctoral researcher in in Manufacturing Engineering at Virginia State University in Cybermanufacturing Laboratory and a PhD Electrical and Computer Engineering with a focus on security, edge computing, and UAV systems. My work integrates machine learning, blockchain, and cryptography to solve real-world problems in cyber-physical systems. Passionate about applied research, teaching, and collaborative innovation across disciplines.",
     "location": {
       "address": "",
-      "postalCode": "23806",
+      "postalCode": "23803",
       "city": "Petersburg",
       "countryCode": "US",
       "region": "Virginia"
@@ -52,7 +52,7 @@ toc:
       {
         "network": "Personal Website",
         "username": "Simeon Ayokunmi",
-        "url": "https://Simeonayokunmi.github.io/"
+        "url": "https://Simeonayokunmi.simeonogunbunmi.github.io/"
       }
     ]
   },
@@ -61,7 +61,7 @@ toc:
       "name": "Virginia State University",
       "position": "Postdoctoral Researcher",
       "url": "https:www//vsu.edu",
-      "startDate": "2025-06-01",
+      "startDate": "2025-06",
       "endDate": "Present",
       "summary": "Engineering OPC UA data pipeline using Prosys UA Client and Python to aggregate data from DMG MORI (DMU50) and environmental sensors, streaming processed data to Azure cloud for centralized storage and analysis.",
       "highlights": [
@@ -75,8 +75,8 @@ toc:
       "name": "Binghamton University - I-SEC Lab",
       "position": "Graduate Research Assistant",
       "url": "https://binghamton.edu",
-      "startDate": "2022-08-01",
-      "endDate": "2025-05-01",
+      "startDate": "2022-08",
+      "endDate": "2025-12",
       "summary": "Conducted research in Intelligent and Sustainable Edge Computing (I-SEC) Lab focusing on UAV security, blockchain technology, and edge computing systems.",
       "highlights": [
         "Developed reputation system for 5 UAVs using blockchain technology, ensuring security of 60% of datasets collected, with comprehensive integration of cloud platforms for scalable data management",
@@ -90,7 +90,7 @@ toc:
     {
       "name": "Hub Control USA Inc.",
       "position": "Remote Temperature Control System Engineering Intern",
-      "url": "https://newyork-company.com/co/hub-controls-usa-inc",
+      "url": "https://www.newyork-company.com/co/hub-controls-usa-inc",
       "startDate": "2023-05-01",
       "endDate": "2023-08-01",
       "summary": "Engineered secure, Python-based remote-control platform for IoT heat pumps with cloud-based authentication and real-time system validation.",
@@ -121,6 +121,7 @@ toc:
       "position": "Graduate Teaching Assistant",
       "startDate": "2022-08-01",
       "endDate": "2025-05-01",
+      "url": "https://www.binghamton.com/",
       "courses": [
         "Digital Communication Systems",
         "Computer Design and Architecture",
