@@ -471,13 +471,7 @@ toc:
       "url": "",
       "summary": "Recognized for exceptional contributions to UAV security research and blockchain technology innovation."
     },
-    <!-- {
-      "title": "Best Paper Award - UAV Security Research",
-      "date": "2023-10-12",
-      "awarder": "International Conference on UAV Networks",
-      "url": "",
-      "summary": "Awarded for groundbreaking research on lightweight reputation systems for UAV networks."
-    }, -->
+  
     {
       "title": "Outstanding Contribution to Students' Life Award",
       "date": "2022-04-01",
