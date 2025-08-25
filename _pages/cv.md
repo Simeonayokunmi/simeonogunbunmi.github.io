@@ -170,7 +170,7 @@ toc:
       "location": "Petersburg, Virginia, United States",
       "url": "https://www.vsu.edu/",
       "area": "Manufacturing Engineering",
-      "studyType": "Postdoctoral Research Fellowship",
+      "studyType": "Postdoctoral Research",
       "startDate": "2025-06-01",
       "endDate": "Present",
       "score": "",
@@ -227,7 +227,7 @@ toc:
       "studyType": "Bachelor of Technology (B.Tech)",
       "startDate": "2015-04-01",
       "endDate": "2022-04-01",
-      "score": "4.62/5.00 (First Class Honors) | 3.75/4.00 GPA",
+      "score": "4.62/5.00 | 3.75/4.00 GPA",
       "courses": [
         "Decision Support Systems",
         "Integrated Circuit Design",
