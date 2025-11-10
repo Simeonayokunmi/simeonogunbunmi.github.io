@@ -23,10 +23,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
  Simeon Ogunbunmi is a Postdoctoral Researcher in the Department of Manufacturing and Industrial Engineering at Virginia State University, where he works on advanced security and reliability solutions for cyber-physical systems. He is also pursuing his Ph.D. at the State University of New York, Binghamton, with a focus on UAV network security, Internet of Things (IoT) architectures, and trust management systems. His research contributions include lightweight reputation systems (LIBRE), digital twin–enhanced microchain architectures (DITER), and topological data analysis (TDA) for UAV performance evaluation. Simeon’s work integrates probabilistic modeling, digital twin frameworks, and real-time simulation to strengthen the resilience and security of UAV and IoT ecosystems. [linkedln](https://linkedin.com/in/simeon-ogunbunmi). 
